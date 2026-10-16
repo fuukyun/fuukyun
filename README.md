@@ -13,8 +13,7 @@
 
 ### 🧑‍🔧 About me
 
-- 💻 **Previously:** worked as a **Fullstack Web Developer**, building web apps end to end with Next.js, NestJS, MongoDB/PostgreSQL and AWS.
-- ⚡ **Now:** I code for fun! I learn by building things, and at the moment I'm experimenting with **Industrial electrical systems**, **Electronics**, **PLCs** and **Computer vision**.
+Previously worked as a **Fullstack Web Developer**, building web apps end to end with Next.js, NestJS, MongoDB/PostgreSQL and AWS. But now I code for fun! I learn by building things, and at the moment I'm learning **Industrial electrical systems**, **Electronics**, **PLCs** and **Computer vision**.
 
 > *Always learning, always tinkering.*
 
