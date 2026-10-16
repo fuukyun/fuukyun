@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Fuukyun+%F0%9F%91%8B;Coding+for+fun+%E2%9A%A1;Electrical+%C2%B7+PLC+%C2%B7+Electronics+%C2%B7+Vision" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Fuukyun+%F0%9F%91%8B;Coding+for+fun!" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=fuukyun&style=flat-square&color=2F81F7&label=Profile+views" alt="Profile views" />
@@ -11,7 +11,7 @@
 
 ---
 
-### 🧑‍🔧 About me
+### About me
 
 Previously worked as a **Fullstack Web Developer**, building web apps end to end with Next.js, NestJS, MongoDB/PostgreSQL and AWS. But now I code for fun! I learn by building things, and at the moment I'm learning **Industrial electrical systems**, **Electronics**, **PLCs** and **Computer vision**.
 
@@ -21,50 +21,20 @@ Previously worked as a **Fullstack Web Developer**, building web apps end to end
 
 ### 🧠 Tech Stack
 
-**Languages**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp&theme=dark" alt="Languages" />
-</p>
-
-**Frontend**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,redux,html,css&theme=dark" alt="Frontend" />
-</p>
-
-**Backend**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,graphql,prisma&theme=dark" alt="Backend" />
-</p>
-
-**Database & Storage**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&theme=dark" alt="Databases" />
-  <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO" height="48" />
-</p>
-
-**Cloud & DevOps**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,vercel,githubactions&theme=dark" alt="Cloud & DevOps" />
-</p>
-
-**Computer Vision**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=opencv,pytorch&theme=dark" alt="Computer Vision" />
-</p>
+| | |
+|:--|:--|
+| **Languages** | <img height="32" src="https://skillicons.dev/icons?i=ts,js,python,cpp&theme=dark" alt="Languages" /> |
+| **Frontend** | <img height="32" src="https://skillicons.dev/icons?i=nextjs,react,tailwind,redux,html,css&theme=dark" alt="Frontend" /> |
+| **Backend** | <img height="32" src="https://skillicons.dev/icons?i=nestjs,nodejs,express,graphql,prisma&theme=dark" alt="Backend" /> |
+| **Database & Storage** | <img height="32" src="https://skillicons.dev/icons?i=mongodb,postgres,redis&theme=dark" alt="Databases" /> <img height="32" src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO" /> |
+| **Cloud & DevOps** | <img height="32" src="https://skillicons.dev/icons?i=aws,docker,nginx,vercel,githubactions&theme=dark" alt="Cloud & DevOps" /> |
+| **Computer Vision** | <img height="32" src="https://skillicons.dev/icons?i=opencv,pytorch&theme=dark" alt="Computer Vision" /> |
 
 ---
 
 ### 🛠️ Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&theme=dark" alt="Tools" />
-</p>
+<img height="32" src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&theme=dark" alt="Tools" />
 
 ---
 
