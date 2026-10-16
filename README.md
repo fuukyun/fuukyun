@@ -20,14 +20,32 @@ Previously worked as a **Fullstack Web Developer**, building web apps end to end
 
 ### 🧠 Tech Stack
 
-| | |
-|:--|:--|
-| **Languages** | <img height="32" src="https://skillicons.dev/icons?i=ts,js,python,cpp&theme=dark" alt="Languages" /> |
-| **Frontend** | <img height="32" src="https://skillicons.dev/icons?i=nextjs,react,tailwind,redux,html,css&theme=dark" alt="Frontend" /> |
-| **Backend** | <img height="32" src="https://skillicons.dev/icons?i=nestjs,nodejs,express,graphql,prisma&theme=dark" alt="Backend" /> |
-| **Database & Storage** | <img height="32" src="https://skillicons.dev/icons?i=mongodb,postgres,redis&theme=dark" alt="Databases" /> <img height="32" src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO" /> |
-| **Cloud & DevOps** | <img height="32" src="https://skillicons.dev/icons?i=aws,docker,nginx,vercel,githubactions&theme=dark" alt="Cloud & DevOps" /> |
-| **Computer Vision** | <img height="32" src="https://skillicons.dev/icons?i=opencv,pytorch&theme=dark" alt="Computer Vision" /> |
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img height="32" src="https://skillicons.dev/icons?i=ts,js,python,cpp&theme=dark" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img height="32" src="https://skillicons.dev/icons?i=nextjs,react,tailwind,redux,html,css&theme=dark" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img height="32" src="https://skillicons.dev/icons?i=nestjs,nodejs,express,graphql,prisma&theme=dark" alt="Backend" /></td>
+  </tr>
+  <tr>
+    <td><b>Database &amp; Storage</b></td>
+    <td><img height="32" src="https://skillicons.dev/icons?i=mongodb,postgres,redis&theme=dark" alt="Databases" /> <img height="32" src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO" /></td>
+  </tr>
+  <tr>
+    <td><b>Cloud &amp; DevOps</b></td>
+    <td><img height="32" src="https://skillicons.dev/icons?i=aws,docker,nginx,vercel,githubactions&theme=dark" alt="Cloud & DevOps" /></td>
+  </tr>
+  <tr>
+    <td><b>Computer Vision</b></td>
+    <td><img height="32" src="https://skillicons.dev/icons?i=opencv,pytorch&theme=dark" alt="Computer Vision" /></td>
+  </tr>
+</table>
 
 ---
 
