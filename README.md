@@ -3,7 +3,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Fuukyun+%F0%9F%91%8B;Coding+for+fun!" alt="Typing SVG" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=fuukyun&style=flat-square&color=2F81F7&label=Profile+views" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/fuukyun?style=flat-square&color=2F81F7&label=Followers" alt="Followers" />
 </p>
 
